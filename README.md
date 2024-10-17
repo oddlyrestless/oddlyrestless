@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @oddlyrestless
-- 👀 I’m interested in ~~LLMs~~ Time Mana
+- 👀 I’m interested in ~~LLMs~~ Time Management
 - 🌱 I’m currently studying for too many things at once
 - 📫 How to reach me ... please dont
 
