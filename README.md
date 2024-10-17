@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @oddlyrestless
-- 👀 I’m interested in LLMs
-- 🌱 I’m currently studying for an entrance exam
+- 👀 I’m interested in ~~LLMs~~ Time Mana
+- 🌱 I’m currently studying for too many things at once
 - 📫 How to reach me ... please dont
 
 <!---
