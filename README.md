@@ -1,5 +1,5 @@
-- 👋 Hi, I’m not restless now
-- 👀 I’m interested in learning time management since im so bad at it
+- 👋 Hi, I’m still a bit restless
+- 👀 I’m interested in learning time management since im so **bad** at it
 - 🌱 I’m currently studying too many things at once
 - 📫 How to reach me ... idk ping me or smthng
 
