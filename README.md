@@ -1,5 +1,5 @@
-- 👋 Hi, I’m ... restless
-- 👀 I’m interested in learning time management since im so **bad** at it
+- 👋 Hi, I’m Sumant
+- 👀 I’m interested in learning new things!
 - 🌱 I’m currently studying too many things at once
 
 <!---
